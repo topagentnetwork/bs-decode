@@ -16,8 +16,3 @@
 
 (bug_reports https://github.com/mlms13/bs-decode/issues)
 
-(package
- (allow_empty)
- (name bs-decode)
- (synopsis "Type-safe JSON decoding for ReasonML and OCaml")
- (description "Type-safe JSON decoding for ReasonML and OCaml"))
