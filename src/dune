@@ -1,6 +1,6 @@
 (library
  (name bsDecode)
- (public_name bs-decode)
+ (public_name bsDecode)
  (libraries bastet relude)
  (modes melange)
  (preprocess
