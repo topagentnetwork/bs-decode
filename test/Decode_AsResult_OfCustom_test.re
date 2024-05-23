@@ -6,6 +6,8 @@ open Jest;
 open Expect;
 open Relude.Globals;
 
+open BsDecode
+
 module ParseError = Decode_ParseError;
 module Sample = Decode_TestSampleData;
 
