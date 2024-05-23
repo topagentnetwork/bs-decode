@@ -25,3 +25,7 @@ pin-depends: [
   [ "relude.dev" "git+https://github.com/Emilios1995/relude.git#melange4" ]
   [ "bastet.dev" "git+https://github.com/Emilios1995/bastet.git#melange" ]
 ]
+
+build: [
+  ["dune" "build" "-p" name "-j" jobs]
+]
