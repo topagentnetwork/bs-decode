@@ -1,11 +1,12 @@
 opam-version: "2.0"
 synopsis: "BS Decode"
-version: "3.0.0"
+version: "3.0.1"
 description: "Type-safe JSON decoding for ReasonML and OCaml"
 maintainer: ["Michael Martin"]
 authors: ["Michael Martin"]
 license: "MIT"
 homepage: "https://github.com/topagentnetwork/bs-decode"
+dev-repo: "git+https://github.com/topagentnetwork/bs-decode.git"
 bug-reports: "https://github.com/topagentnetwork/bs-decode/issues"
 depends: [
   "dot-merlin-reader" {dev}
