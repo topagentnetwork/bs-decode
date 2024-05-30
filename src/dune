@@ -1,7 +1,7 @@
 (library
  (name bsDecode)
- (public_name bs-decode)
- (libraries bastet relude)
+ (public_name tan-bs-decode)
+ (libraries tan-bastet tan-relude)
  (modes melange)
  (preprocess
   (pps melange.ppx)))
